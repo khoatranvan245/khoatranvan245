@@ -1,9 +1,8 @@
-
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="center">I'm Khoa, a software developer live in Vietnam</p>
+<p align="center">I'm Khoa, a software dev live in Vietnam</p>
 
 ###
 
@@ -43,7 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 </div>
 
 ###
-
